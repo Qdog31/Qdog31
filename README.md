@@ -1,5 +1,5 @@
 ### Hello and welcome to my page! 👋
-
+---
 - 📖 I’m currently studying: Cyber Science (with a concentration in Cyber Operations)
 - 🎓 I attend school at: The United States Military Academy 
 - 📫 How to reach me: Through LinkedIn
